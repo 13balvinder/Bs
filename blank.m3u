@@ -1,1 +1,76 @@
-#EXTM3U
+
+http://31.148.48.15/OTR/index.m3u8
+#EXTINF:-1 tvg-id="ChannelOne.ru@SD", Channel One (1080p)
+http://31.148.48.15/Pervii_kanal_HD/index.m3u8
+#EXTINF:-1 tvg-id="Poehali.ru@SD",Let's go! (1080p)
+http://31.148.48.15/Poehali/index.m3u8
+#EXTINF:-1 tvg-id="Friday.ru@SD",Friday! (576p)
+http://31.148.48.15/Pyatnica/index.m3u8
+#EXTINF:-1 tvg-id="RBKTV.ru@SD", RBC (576p)
+http://31.148.48.15/RBK/index.m3u8
+#EXTINF:-1 tvg-id="RodnoeKino.ru@SD",Rodnoe Kino (576p)
+http://31.148.48.15/Rodnoe_kino/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@SD",Russia 1 (1080p)
+http://31.148.48.15/Rossiya_1_HD/index.m3u8
+#EXTINF:-1 tvg-id="Russia1.ru@Plus6",Russia 1 (+6) (576p)
+http://31.148.48.15/Rossiya_1/index.m3u8
+#EXTINF:-1 tvg-id="Russia24.ru@SD",Russia 24 (576p)
+http://31.148.48.15/Rossiya_24/index.m3u8
+#EXTINF:-1 tvg-id="RussiaK.ru@SD",Russia K (+2) (576p)
+http://31.148.48.15/TDK/index.m3u8
+#EXTINF:-1 tvg-id="RusskiyBestseller.ru@SD",Russian Bestseller (576p)
+http://31.148.48.15/Russkiy_Bestseller/index.m3u8
+#EXTINF:-1 tvg-id="RusskiyDetektiv.ru@SD",Russian Detective (576p)
+http://31.148.48.15/Russkiy_Detektiv/index.m3u8
+#EXTINF:-1 tvg-id="RusskiyIllusion.ru@SD",Russian Illusion (576p)
+http://31.148.48.15/Russkiy_illusion/index.m3u8
+#EXTINF:-1 tvg-id="Russkiyroman.ru@SD",Russian Novel (1080p)
+http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
+#EXTINF:-1 tvg-id="Russkiyroman.ru@SD",Russian Novel (576p)
+http://31.148.48.15/Russkiy_Roman/index.m3u8
+#EXTINF:-1 tvg-id="RussianExtreme.ru@SD",Russian Extreme (576p)
+http://31.148.48.15/Russkiy_Ekstrim/index.m3u8
+#EXTINF:-1 tvg-id="Ryzhiy.ru@SD",Ryzhiy (576p)
+http://31.148.48.15/Rizhiy/index.m3u8
+#EXTINF:-1 tvg-id="SanktPeterburg.ru@SD",Sankt Petersburg (576p)
+http://31.148.48.15/Sankt_Peterburg/index.m3u8
+#EXTINF:-1 tvg-id="Saphire.ru@SD",Sapphire (720p)
+http://31.148.48.15/Sapfir_HD/index.m3u8
+#EXTINF:-1 tvg-id="Saphire.ru@SD",Sapphire (576p)
+http://31.148.48.15/Sapfir/index.m3u8
+#EXTINF:-1 tvg-id="Sarafan.ru@SD",Sarafan (576p)
+http://31.148.48.15/Sarafan/index.m3u8
+#EXTINF:-1 tvg-id="SolovyovLive.ru@SD", Solovyov LIVE (576p)
+http://31.148.48.15/EuroNews/index.m3u8
+#EXTINF:-1 tvg-id="STS.ru@SD", STS (+4) (576p)
+http://31.148.48.15/STS/index.m3u8
+#EXTINF:-1 tvg-id="STSLove.ru@SD", STS Love (576p)
+http://31.148.48.15/STS_Love/index.m3u8
+#EXTINF:-1 tvg-id="Subbota.ru@SD",Saturday! (576p)
+http://31.148.48.15/Super/index.m3u8
+#EXTINF:-1 tvg-id="Teatr.ru@SD",Theater (576p)
+http://31.148.48.15/Sochi_HD/index.m3u8
+#EXTINF:-1 tvg-id="Teatr.ru@SD",Theater (576p)
+http://31.148.48.15/Sochi_HD/video.m3u8
+#EXTINF:-1 tvg-id="Telecafe.ru@SD",Telecafe (576p)
+http://31.148.48.15/Telekafe/index.m3u8
+#EXTINF:-1 tvg-id="Teleputeshestviya.ru@SD", Teletravel (576p)
+http://31.148.48.15/Teleputeshestviya/index.m3u8
+#EXTINF:-1 tvg-id="TNT4.ru@SD",TNT4 (576p)
+http://31.148.48.15/TNT4/index.m3u8
+#EXTINF:-1 tvg-id="TNT.ru@SD",TNT (+4) (576p)
+http://31.148.48.15/TNT/index.m3u8
+#EXTINF:-1 tvg-id="Tonus.ru@SD",Tonus (576p)
+http://31.148.48.15/Zdorovie/index.m3u8
+#EXTINF:-1 tvg-id="TochkaTV.ru@SD", Tochka TV (576p)
+http://31.148.48.15/Tochka_TV/index.m3u8
+#EXTINF:-1 tvg-id="Unikum.ru@SD",Unikum (576p)
+http://31.148.48.15/Detskiy/index.m3u8
+#EXTINF:-1 tvg-id="FeniksplusKino.ru@SD",Feniks Plus Kino (576p)
+http://31.148.48.15/Feniks_plus_kino/index.m3u8
+#EXTINF:-1 tvg-id="Football.ru@SD",Football (720p)
+http://31.148.48.15/Futbol_HD/index.m3u8
+#EXTINF:-1 tvg-id="Che.ru@SD",Che! (576p)
+http://31.148.48.15/Che/index.m3u8
+#EXTINF:-1 tvg-id="U.ru@SD",Yu (576p)
+http://31.148.48.15/U/index.m3u8
