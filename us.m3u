@@ -55,6 +55,8 @@ http://origin.thetvapp.to/hls/TCMEast/mono.m3u8
 http://origin.thetvapp.to/hls/TeenNickEast/mono.m3u8
 #EXTINF:-1,NICKELODEON EAST US FHD
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
+#EXTINF:-1,Nick Jr. Channel (960*540)
+http://84.17.50.102/nickjr/index.m3u8
 #EXTINF:-1,truTV East US HD
 http://23.237.104.106:8080/USA_TRUTV/index.m3u8
 #EXTINF:-1,TNT East US HD
@@ -63,7 +65,6 @@ http://89.105.221.127/TNT/index.m3u8?token=test
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 #EXTINF:-1,TBS EAST US HD
 http://89.105.221.127/TBS/index.m3u8?token=test#EXTINF:-1,Nick Jr. Channel (960*540)
-http://84.17.50.102/nickjr/index.m3u8
 #EXTINF:-1,Nicktoons (960*540)
 http://84.17.50.102/nicktoons/index.m3u8
 #EXTINF:-1,Wgn Chicago Il (Wgn Tv1) (720p) HD
