@@ -1,7 +1,24 @@
 #EXTM3U
-#EXTINF:-1,Channel Name 1
-http://example.com/stream1
-#EXTINF:-1,Channel Name 2
-http://example.com/stream2
-#EXTINF:-1,Channel Name 3
-http://example.com/stream3
+#EXTINF:-1,BBC News
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1704067200/ei/test/ip/0.0.0.0/ipbits/0/source/youtube/requiressl/yes/tx/51924206/txs/51924200%2C51924206/hfr/1/playlist_duration/30/manifest_duration/30/maudio/51/vprv/1/go/1/pacing/0/nvcôt/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cipbits%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Cpacing%2Cnvoet%2Ckeepalive%2Cfexp%2Cdover%2Citag%2Cplaylist_type%2Csparams/sig/test/file/index.m3u8
+
+#EXTINF:-1,Sky News
+https://skynews-prod-cdn.akamaized.net/cdp/master_FLAT.m3u8
+
+#EXTINF:-1,DW News
+https://dwstream1-lh.akamaized.net/manifest/playlist.m3u8
+
+#EXTINF:-1,Euronews English
+https://euronews-1-eu.rakuten.wurl.tv/manifest.m3u8
+
+#EXTINF:-1,WION News
+https://d6d6d6ad141403334ebc033277cfe7f19.egress.mediapackage-vod.eu-west-1.amazonaws.com/out/v1/c58d1ddfb2df401b9be7a60a31a76c0f/index.m3u8
+
+#EXTINF:-1,ABC News
+https://news-vod.abcnewsdigital.com/video/playlist.m3u8
+
+#EXTINF:-1,NBC News NOW
+https://nbcnewsnow-lh.akamaized.net/i/nbcnewsnow_1@119099/master_3.m3u8
+
+#EXTINF:-1,CNN International
+https://cnnlive-lh.akamaized.net/i/cnnlive_1@500579/master_3.m3u8
