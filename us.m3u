@@ -1,78 +1,53 @@
-#EXTINF:-1,BOOMERANG US FHD
-http://23.237.104.106:8080/USA_BOOMERANG/index.m3u8
-#EXTINF:-1,CARTOON NETWORK US FHD
-http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-#EXTINF:-1,DISNEY JUNIOR US HD
-http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
-#EXTINF:-1,Disney Channel HD
-http://89.105.221.127/Disney/index.m3u8?token=test
-#EXTINF:-1,DISNEY XD US HD
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-
-#EXTINF:-1,DiscoveryFamily SD
-http://origin.thetvapp.to/hls/DiscoveryFamily/mono.m3u8
-#EXTINF:-1,TeenNickEast sd
-http://origin.thetvapp.to/hls/TeenNickEast/mono.m3u8
-#EXTINF:-1,NICKELODEON EAST US FHD
-http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-#EXTINF:-1,Nick Jr. Channel (960*540)
-http://84.17.50.102/nickjr/index.m3u8
-#EXTINF:-1,Nicktoons (960*540)
-http://84.17.50.102/nicktoons/index.m3u8
-
-#EXTINF:-1,BEIN US HD
-http://23.237.104.106:8080/USA_BEIN/index.m3u8
-#EXTINF:-1,BBC AMERICA USA FHD
-http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
-#EXTINF:-1,AXS UK FHD
-http://89.105.221.127/AxsTV/index.m3u8?token=test
-#EXTINF:-1,ANIMAL PLANET US FHD
-http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
-#EXTINF:-1,AMERICAN_HEROES US FHD
-http://23.237.104.106:8080/USA_AMERICAN_HEROES/index.m3u8
-#EXTINF:-1,AMC US HD
-http://89.105.221.127/AMC/index.m3u8?token=test
-#EXTINF:-1,A&E US SD
-http://84.17.50.102/ae/index.m3u8
-#EXTINF:-1,5 STARMAX FHD US
-http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
-#EXTINF:-1,CNN HD US
-http://89.105.221.127/CNN/index.m3u8?token=test
-#EXTINF:-1,Discovery Science HD US FHD 
-http://23.237.104.106:8080/USA_SCIENCE/mpegts
-#EXTINF:-1,AMC HD US
-http://89.105.221.127/AMC/mpegts?token=test
-#EXTINF:-1,Wgn Chicago Il (Wgn Tv1) (720p) HD
-http://23.237.104.106:8080/USA_WGN/index.m3u8
-#EXTINF:-1,VICE EAST US FHD 
-http://23.237.104.106:8080/USA_VICETV/index.m3u8
-#EXTINF:-1,VH1 US FHD 
-http://23.237.104.106:8080/USA_VH1/index.m3u8
-#EXTINF:-1,truTV East US HD
-http://23.237.104.106:8080/USA_TRUTV/index.m3u8
-#EXTINF:-1,TNT East US HD
-http://89.105.221.127/TNT/index.m3u8?token=test
-#EXTINF:-1,TENNIS CHANNEL US FHD
-http://23.237.104.106:8080/USA_TENNIS/index.m3u8
-#EXTINF:-1,TBS EAST US HD
-http://89.105.221.127/TBS/index.m3u8?token=test
-#EXTINF:-1,SYFY EAST US HD
-http://23.237.104.106:8080/USA_SYFY/index.m3u8
-#EXTINF:-1,REELZ US HD
-http://23.237.104.106:8080/USA_REELZ/index.m3u8
-#EXTINF:-1,OUTDOOR CHANNEL US FHD
-http://23.237.104.106:8080/USA_OUTDOOR/index.m3u8
-#EXTINF:-1,OAN NEWS US HD
-http://23.237.104.106:8080/USA_OAN/index.m3u8
-#EXTINF:-1,ION US HD
-http://23.237.104.106:8080/USA_ION/index.m3u8
-#EXTINF:-1,IFC EAST HD
-http://23.237.104.106:8080/USA_IFC/index.m3u8
-#EXTINF:-1,Univision East SD
-http://origin.thetvapp.to/hls/UnivisionEast/mono.m3u8
-#EXTINF:-1,TCM EAST US SD
-http://origin.thetvapp.to/hls/TCMEast/mono.m3u8
-#EXTINF:-1,CINEMAX East US FHD
-http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
-#EXTINF:-1,CNN US HD
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTM3U
+#EXTINF:-1,Channel A
+http://example.com/channel-a.m3u8
+#EXTINF:-1,Channel B
+http://example.com/channel-b.m3u8
+#EXTINF:-1,Channel C
+http://example.com/channel-c.m3u8
+#EXTINF:-1,Channel D
+http://example.com/channel-d.m3u8
+#EXTINF:-1,Channel E
+http://example.com/channel-e.m3u8
+#EXTINF:-1,Channel F
+http://example.com/channel-f.m3u8
+#EXTINF:-1,Channel G
+http://example.com/channel-g.m3u8
+#EXTINF:-1,Channel H
+http://example.com/channel-h.m3u8
+#EXTINF:-1,Channel I
+http://example.com/channel-i.m3u8
+#EXTINF:-1,Channel J
+http://example.com/channel-j.m3u8
+#EXTINF:-1,Channel K
+http://example.com/channel-k.m3u8
+#EXTINF:-1,Channel L
+http://example.com/channel-l.m3u8
+#EXTINF:-1,Channel M
+http://example.com/channel-m.m3u8
+#EXTINF:-1,Channel N
+http://example.com/channel-n.m3u8
+#EXTINF:-1,Channel O
+http://example.com/channel-o.m3u8
+#EXTINF:-1,Channel P
+http://example.com/channel-p.m3u8
+#EXTINF:-1,Channel Q
+http://example.com/channel-q.m3u8
+#EXTINF:-1,Channel R
+http://example.com/channel-r.m3u8
+#EXTINF:-1,Channel S
+http://example.com/channel-s.m3u8
+#EXTINF:-1,Channel T
+http://example.com/channel-t.m3u8
+#EXTINF:-1,Channel U
+http://example.com/channel-u.m3u8
+#EXTINF:-1,Channel V
+http://example.com/channel-v.m3u8
+#EXTINF:-1,Channel W
+http://example.com/channel-w.m3u8
+#EXTINF:-1,Channel X
+http://example.com/channel-x.m3u8
+#EXTINF:-1,Channel Y
+http://example.com/channel-y.m3u8
+#EXTINF:-1,Channel Z
+http://example.com/channel-z.m3u8
