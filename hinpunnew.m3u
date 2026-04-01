@@ -1,0 +1,558 @@
+#EXTM3U  x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+#EXTINF:-1 group-title="Entertainment",&TV HD UK
+https://amg01117-amg01117c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment",&TV HD UK
+https://jmp2.uk/sam-GB3700007OZ.m3u8
+
+#EXTINF:-1 group-title="Entertainment",&TV HD
+http://38.96.178.201/live/AndTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Entertainment",BOLLYWOOD MASALA (Distro TV)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-masala/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DABANGG TV (Distro TV)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dabangg/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DANGAL TV (Dangal Play)
+https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DANGAL 2 (Dangal Play)
+https://live-dangal2.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD ARUN PRABHA (Pishow TV)
+http://cdn-4.pishow.tv/live/32/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD ARUN PRABHA
+https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD BHARATI (Pishow TV)
+http://cdn-1.pishow.tv/live/10/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD BIHAR (Pishow TV)
+http://cdn-4.pishow.tv/live/35/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD GIRNAR (Pishow TV)
+http://cdn-4.pishow.tv/live/38/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD GIRNAR 
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/4a7a0c8a-c58d-43d6-baff-13492d67bf3e/2.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD HARYANA
+https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD JHARKHAND
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2c6c5c20-6afe-47c4-934f-a0d7002cb151/2.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD JHARKHAND (Pishow TV)
+http://cdn-1.pishow.tv/live/15/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD INDIA (Pishow TV)
+http://cdn-1.pishow.tv/live/23/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD MADHYA PRADESH (Pishow TV)
+http://cdn-1.pishow.tv/live/31/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD NATIONAL (Pishow TV)
+http://cdn-1.pishow.tv/live/11/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD PUNJABI (Pishow TV)
+http://cdn-4.pishow.tv/live/24/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD PUNJABI (DD Free Dish)
+http://212.102.34.8:9080/DD_Punjabi/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD PUNJABI
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/20c8ad14-a158-4a42-8889-e032d070856e/2.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD RAJASTHAN (Pishow TV)
+http://cdn-1.pishow.tv/live/34/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD URDU (Pishow TV)
+http://cdn-4.pishow.tv/live/8/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD UTTARAKHAND (Pishow TV)
+http://cdn-1.pishow.tv/live/17/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",DD UTTAR PRADESH (Pishow TV)
+http://cdn-1.pishow.tv/live/36/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",ISHAARA (EPIC ON)
+https://epiconvh.akamaized.net/ishaara/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",NAZAARA (EPIC ON)
+https://epiconvh.akamaized.net/nazara/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",PTC PUNJABI (Play Box TV)
+http://longstream-06.ajaah.com/PlayBoxTV/PTCPunjabi/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment",SET
+http://38.96.178.201/live/SONY/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Entertainment",SET HD (SonyLIV)
+https://tataplay.slivcdn.com/hls/live/2011671/SETHD/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",SET HD (Tata Sky)
+http://38.96.178.201/live/SonyHD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Entertainment",SONY KAL US
+https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment",SONY KAL US (#)
+https://spt-sonykal-1-us.xumo.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Entertainment",SONY PAL (SonyLIV)
+https://tataplay.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",SONY SAB HD (SonyLIV)
+https://tataplay.slivcdn.com/hls/live/2011749/SABHD/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",SONY WAH (SonyLIV)
+https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",STAR Plus HD (Tata Sky)
+http://38.96.178.201/live/StarPlus/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Entertainment",SHEMAROO TV (Pishow TV)
+http://cdn-3.pishow.tv/live/230/master.m3u8
+
+#EXTINF:-1 group-title="Entertainment",ZEE ANMOL
+http://38.96.178.201/live/ZeeAnmol/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Entertainment",ZEE TV HD
+http://38.96.178.201/live/ZEETV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Movies",BOLLYWOOD CLASSIC (Distro TV)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+
+#EXTINF:-1 group-title="Movies",BOLLYWOOD HD (Distro TV)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
+#EXTINF:-1 group-title="Movies",B4U KADAK (Pishow TV)
+http://cdn-2.pishow.tv/live/227/master.m3u8
+
+#EXTINF:-1 group-title="Movies",B4U MOVIES (Pishow TV)
+http://cdn-2.pishow.tv/live/419/master.m3u8
+
+#EXTINF:-1 group-title="Movies",B4U MOVIES
+http://175.107.244.52:4457/play/a058/index.m3u8
+
+#EXTINF:-1 group-title="Movies",B4U MOVIES
+http://38.96.178.201/live/B4UMovie/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Movies",BFLIX MOVIES (Play Box TV)
+http://longstream-06.ajaah.com/PlayBoxTV/BflixMovies/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies",BHOJPURI CINEMA (Dangal Play)
+https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies",FILAMCHI BHOJPURI (EPIC ON)
+https://epiconvh.akamaized.net/filamchi/master.m3u8
+
+#EXTINF:-1 group-title="Movies",GOLDMINES (Pishow TV)
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+
+#EXTINF:-1 group-title="Movies",GOLDMINES 2 (Pishow TV)
+https://cdn-2.pishow.tv/live/1460/master.m3u8
+
+#EXTINF:-1 group-title="Movies",GOLDMINES MOVIES (Pishow TV)
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+
+#EXTINF:-1 group-title="Movies",JOO MUSIC
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies",MBC BOLLYWOOD
+http://175.107.244.52:4457/play/a060/index.m3u8
+
+#EXTINF:-1 group-title="Movies",MAHA MOVIES (Play Box TV)
+http://longstream-06.ajaah.com/PlayBoxTV/MahaMovies/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies",MANORANJAN MOVIES (Play Box TV)
+http://38.96.178.201/live/ManoranjanTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Movies",MANORANJAN MOVIES (Pishow TV)
+http://cdn-2.pishow.tv/live/228/master.m3u8
+
+#EXTINF:-1 group-title="Movies",OSCAR MOVIES HINDI (Play Box TV)
+http://longstream-06.ajaah.com/PlayBoxTV/OscarMoviesBhojpuri/OscarMoviesBhojpuri_1/stream.m3u8
+
+#EXTINF:-1 group-title="Movies",PITAARA
+http://212.102.34.8:9080/Pitaara/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Movies",SONY MAX 2 (SonyLIV)
+https://tataplay.slivcdn.com/hls/live/2011908/MAX2/master.m3u8
+
+#EXTINF:-1 group-title="Movies",SONY MAX (SonyLIV)
+https://tataplay.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8
+
+#EXTINF:-1 group-title="Movies",SONY MAX HD (SonyLIV)
+https://tataplay.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8
+
+#EXTINF:-1 group-title="Movies",SONY PIX HD (SonyLIV)
+https://tataplay.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8
+
+#EXTINF:-1 group-title="Movies",SONY WAH (SonyLIV)
+https://tataplay.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8
+
+#EXTINF:-1 group-title="Movies",STAR GOLD HD (Tata Sky)
+http://38.96.178.201/live/StarGold/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Movies",SHEMAROO BOLYWOOD (Distro TV)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-bollywood/master.m3u8
+
+#EXTINF:-1 group-title="Movies",SHEMAROO BOLYWOOD 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies",TABBAR HITS (Distro TV)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/tabbar-hits/playlist.m3u8
+
+#EXTINF:-1 group-title="Movies",WOW CINEMA ONE (Pishow TV)
+http://cdn-2.pishow.tv/live/231/master.m3u8
+
+#EXTINF:-1 group-title="Movies",ZEE BOLLYWOOD (Tata Sky)
+http://212.102.34.8:9080/ZeeBollywood/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Music",9XM (Distro TV)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8
+
+#EXTINF:-1 group-title="Music",9XM (EPIC ON)
+https://epiconvh.akamaized.net/9XM/master.m3u8
+
+#EXTINF:-1 group-title="Music",9XM
+http://38.96.178.201/live/9XM/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Music",9X JALWA (EPIC ON)
+https://epiconvh.akamaized.net/9xJalwa/master.m3u8
+
+#EXTINF:-1 group-title="Music",9X JALWA (Play Box TV)
+http://longstream-06.ajaah.com/PlayBoxTV/9XJalwa/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",9X JALWA
+http://38.96.178.201/live/Dillagi/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Music",9X JALWA
+https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xjalwa-samsungin/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",9X TASHAN (Play Box TV)
+http://longstream-06.ajaah.com/PlayBoxTV/9XTashan/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",9X TASHAN
+https://amg01281-9xmediapvtltd-9xjalwa-samsungin-goszf.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",B4U MUSIC (Pishow TV)
+http://cdn-2.pishow.tv/live/415/master.m3u8
+
+#EXTINF:-1 group-title="Music",B4U MUSIC
+http://175.107.244.52:4457/play/a059/index.m3u8
+
+#EXTINF:-1 group-title="Music",B4U MUSIC
+http://38.96.178.201/live/B4UMusic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Music",BALLE BALLE
+https://mcncdndigital.com/balleballetv/index.m3u8
+
+#EXTINF:-1 group-title="Music",E24
+https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",E24 (Play Box TV)
+http://longstream-06.ajaah.com/PlayBoxTV/E24/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Music",JUST IN
+http://209.52.98.98/justintv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Music",MASTIII (Distro TV)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+
+#EXTINF:-1 group-title="Music",MASTIII 
+https://sabliveyupp.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/sablive_https/mastii/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",MUSIC INDIA (Pishow TV)
+http://cdn-2.pishow.tv/live/226/master.m3u8
+
+#EXTINF:-1 group-title="Music",MUSIC INDIA
+http://38.96.178.201/live/MusicIndia/index.m3u8
+
+#EXTINF:-1 group-title="Music",ONLY MUSIC HD
+http://209.52.98.98/onlymusic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Music",PURE PUNJABI HD
+http://livestream.unlimitedcdn.com/agm-pp/pure-punjabi/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Music",PUNJABI HITS (Distro TV)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/manifest.m3u8
+
+#EXTINF:-1 group-title="Music",SHOWBOX (EPIC ON)
+https://epiconvh.akamaized.net/showbox/master.m3u8
+
+#EXTINF:-1 group-title="Music",PTC CHAK DE (Play Box TV)
+http://longstream-06.ajaah.com/PlayBoxTV/PTCChakDe/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",SANGEET BHOJPUR (Play Box TV)
+http://longstream-06.ajaah.com/PlayBoxTV/SangeetBhojpuri/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",SANGEET BHOJPURI
+https://jmp2.uk/sam-INBD4700017SL.m3u8
+
+#EXTINF:-1 group-title="Music",SHEMAROO FILMIGAANE (Distro TV)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
+
+#EXTINF:-1 group-title="Music",SAGA MUSIC (Distro TV)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music/master.m3u8
+
+#EXTINF:-1 group-title="Music",SAGA MUSIC
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",SAGA MUSIC HARYANVI (Distro TV)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/saga-music-haryanvi/master.m3u8
+
+#EXTINF:-1 group-title="Music",SAGA MUSIC HARYANVI
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-sagamusicharyanvi-xiaomi/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",YRF MUSIC (Distro TV)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/yrf-music/master.m3u8
+
+#EXTINF:-1 group-title="Music",YRF MUSIC
+https://dlatw29zyg5gl.cloudfront.net/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",YRF MUSIC
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
+#EXTINF:-1 group-title="Music",ZOOM
+https://dai.google.com/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+
+#EXTINF:-1 group-title="Kids",GUBBARE (EPIC ON)
+https://epiconvh.akamaized.net/gubbare/master.m3u8
+
+#EXTINF:-1 group-title="Kids",POGO
+https://amg01448-samsungin-tv9bangla-samsungin-9lgnh.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8
+
+#EXTINF:-1 group-title="Kids",SONY YAY (SonyLIV)
+https://tataplay.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8
+
+#EXTINF:-1 group-title="Kids",THE JUNGLE BOOK
+https://cc-4bhi5osabejc9.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-4bhi5osabejc9/junglebook.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Gujarati News",ABP ASMITA
+https://abplivetv.pc.cdn.bitgravity.com/httppush/abp_livetv/abp_asmita/master_720p.m3u8
+
+#EXTINF:-1 group-title="Gujarati News",ABP ASMITA
+https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpasmita-samsungin/playlist.m3u8
+
+#EXTINF:-1 group-title="Gujarati News",CNBC BAZAAR
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 group-title="Gujarati News",GSTV
+https://cdnplay.livecast.io/560828843292539228453915.m3u8
+
+#EXTINF:-1 group-title="Gujarati News",GSTV (Pishow TV)
+https://cdn-4.pishow.tv/live/1462/master.m3u8
+
+#EXTINF:-1 group-title="Gujarati News",NEWS 18 GUJARATI
+https://nw18live.cdn.jio.com/bpk-tv/News18_Gujarati_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 group-title="Gujarati News",TV9 GUJARATI
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9guj3ki8lu/liveabr/playlist.m3u8
+
+#EXTINF:-1 group-title="Gujarati News",TV9 GUJARATI
+https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-tv9gujarati-samsungin/playlist.m3u8
+
+#EXTINF:-1 group-title="Gujarati News",ZEE 24 KALAK
+https://d2i4me5ac6ausm.cloudfront.net/index_5.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Hindi News",Aaj Tak
+https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404p/chunks.m3u8
+
+#EXTINF:-1 group-title="Hindi News",Aaj Tak
+https://feeds.intoday.in/aajtak/api/master.m3u8
+
+#EXTINF:-1 group-title="Hindi News",Aaj Tak HD
+https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8
+
+#EXTINF:-1 group-title="Hindi News",Aaj Ki Khabar
+https://server.livelegitpro.in/aajkikhabar/aajkikhabar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Hindi News",Aaj Ki Khabar
+https://cable14tataplay.akamaized.net/aajkikhabar/aajkikhabar/index.m3u8
+
+#EXTINF:-1 group-title="Hindi News",ABP Ganga
+https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpganga-samsungin/playlist.m3u8
+
+#EXTINF:-1 group-title="Hindi News",ABP News
+https://amg01448-samsungin-abpananda-samsungin-ad-pw.amagi.tv/playlist/amg01448-samsungin-abpnews-samsungin/playlist.m3u8
+
+#EXTINF:-1 group-title="Hindi News",Bharat Samachar TV
+https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
+
+#EXTINF:-1 group-title="Hindi News",CNBC Awaaz
+https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 group-title="Hindi News",DD NEWS (Pishow TV)
+http://cdn-2.pishow.tv/live/12/master.m3u8
+
+#EXTINF:-1 group-title="Hindi News",DD NEWS (Pishow TV)
+http://cdn-7.pishow.tv/live/19/master.m3u8
+
+#EXTINF:-1 group-title="Hindi News",DD NEWS
+http://38.96.178.201/live/DDNews/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Hindi News",ET Now Swadesh
+https://d32gxr3r1ksq2p.cloudfront.net/master.m3u8
+
+#EXTINF:-1 group-title="Hindi News",First News India
+https://xlbor37ydvaj-hls-live.wmncdn.net/firstindianewstv1/live.stream/index.m3u8
+
+#EXTINF:-1 group-title="Hindi News",IBC 24
+https://livetv.ibc24.in/livestream.m3u8
+
+#EXTINF:-1 group-title="Hindi News",IBC 24 (Pishow TV)
+http://cdn-3.pishow.tv/live/220/master.m3u8
+
+#EXTINF:-1 group-title="Hindi News",INH 24x7
+https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Hindi News",India News Madhya Pradesh / Chhattisgarh
+https://livetv.newsx.com/itv/itvnetwork7/playlist.m3u8
+
+#EXTINF:-1 group-title="Hindi News",India News Rajasthan
+https://livetv.newsx.com/itv/itvnetwork9/playlist.m3u8
+
+#EXTINF:-1 group-title="Hindi News",K News India
+https://knews.livebox.co.in/youtubehls/live.m3u8
+
+#EXTINF:-1 group-title="Hindi News",News18 Bihar Jharkhand
+https://nw18live.cdn.jio.com/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 group-title="Hindi News",News18 India
+https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 group-title="Hindi News",News18 JKLH 
+https://n18syndication.akamaized.net/bpk-tv/News18_JKLH_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 group-title="Hindi News",News18 Rajasthan
+https://nw18live.cdn.jio.com/bpk-tv/News18_Rajasthan_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 group-title="Hindi News",News18 URDU
+https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/index.m3u8
+
+#EXTINF:-1 group-title="Hindi News",News 24
+https://vidcdn.vidgyor.com/news24-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1 group-title="Hindi News",NDTV India
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
+
+#EXTINF:-1 group-title="Hindi News",Sansad TV 1 HD (LOKSABHA TV)
+https://hls.media.nic.in/hls/live/lstv/lstv.m3u8
+
+#EXTINF:-1 group-title="Hindi News",SANSAD TV 2 SD (Pishow TV)
+http://cdn-2.pishow.tv/live/39/master.m3u8
+
+#EXTINF:-1 group-title="Hindi News",SANSAD TV 2 HD (Pishow TV)
+http://cdn-7.pishow.tv/live/40/master.m3u8
+
+#EXTINF:-1 group-title="Hindi News",Sansad TV 2 HD (RAJYASABHA TV)
+https://hls.media.nic.in/hls/live/rstv/rstv.m3u8
+
+#EXTINF:-1 group-title="Hindi News",Sadhna Plus News
+https://6n3yow8pl9ok-hls-live.5centscdn.com/sadhananewstv/live.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Hindi News",TV9 Bharatvarsh
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9hinjzgtpe/liveabr/playlist.m3u8
+
+#EXTINF:-1 group-title="Hindi News",Zee Bihar Jharkhand
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-4_24_in/streams/in/ZeeBiharJharkhand.m3u8
+
+
+
+#EXTINF:-1 group-title="Sports",DD SPORTS (Pishow TV)
+http://cdn-6.pishow.tv/live/13/master.m3u8
+
+#EXTINF:-1 group-title="Sports",DD SPORTS
+http://38.96.178.201/live/DDSports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Sports",SONY TEN 1 (SonyLIV)
+https://tataplay.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8
+
+#EXTINF:-1 group-title="Sports",SONY TEN 1 HD (SonyLIV)
+https://tataplay.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8
+
+#EXTINF:-1 group-title="Sports",SONY TEN 2 (SonyLIV)
+https://tataplay.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8
+
+#EXTINF:-1 group-title="Sports",SONY TEN 2 HD (SonyLIV)
+https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m
+
+#EXTINF:-1 group-title="Sports",SONY TEN 3 (SonyLIV)
+https://tataplay.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8
+
+#EXTINF:-1 group-title="Sports",SONY TEN 3 HD (SonyLIV)
+https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
+
+#EXTINF:-1 group-title="Sports",SONY TEN 4 (SonyLIV)
+https://tataplay.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8
+
+#EXTINF:-1 group-title="Sports",SONY TEN 4 HD (SonyLIV)
+https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
+
+#EXTINF:-1 group-title="Sports",SONY TEN 5 (SonyLIV)
+https://tataplay.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8
+
+#EXTINF:-1 group-title="Sports",SONY TEN 5 HD (SonyLIV)
+https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Infortainment",ANJAN TV
+https://anjantvevent.pc.cdn.bitgravity.com/anjantv/live/amlst:event_anjan_,b400,b800,b1024,b1200,b1500,b4000,.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Infortainment",DD GYAN DARSHAN HD (Pishow TV)
+http://cdn-6.pishow.tv/live/14/master.m3u8
+
+#EXTINF:-1 group-title="Infortainment",DD KISAN (Pishow TV)
+http://cdn-6.pishow.tv/live/9/master.m3u8
+
+#EXTINF:-1 group-title="Infortainment",DD KISAN (Pishow TV)
+http://cdn-2.pishow.tv/live/223/master.m3u8
+
+#EXTINF:-1 group-title="Infortainment",EPIC (EPIC ON)
+https://epiconvh.akamaized.net/epic/master.m3u8
+
+#EXTINF:-1 group-title="Infortainment",GREEN CHILLIES TV (Distro TV)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/green-chillies-tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Infortainment",GREEN CHILLIES TV 
+https://cable5tatasky.akamaized.net/live/GreenChillies_Playout-Main/manifest.mpd
+
+#EXTINF:-1 group-title="Infortainment",NATIONAL GEOGRAPIC ABU DHABI
+http://175.107.244.52:4457/play/a064/index.m3u8
+
+#EXTINF:-1 group-title="Infortainment",SONY BBC EARTH HD (SonyLIV)
+https://tataplay.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8
+
+#EXTINF:-1 group-title="Infortainment",WILD
+http://175.107.244.52:4457/play/a07b/index.m3u8
+
+
+
