@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/ae/elcinema.com.xml"
+#EXTM3U x-tvg-url="https://shahid.mbc.net/sitemap-en-livestream.xml"
 
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-name="mbc1" tvg-logo="https://i.imgur.com/CiA3plN.png" group-title="MBC NETWORK",MBC 1 (1080p)
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
