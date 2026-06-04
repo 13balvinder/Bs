@@ -1,0 +1,9 @@
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/uae6.xml.gz"
+
+#EXTINF:-1 tvg-id="MBC Bollywood.eg" tvg-name="MBC Bollywood.eg" tvg-logo="https://i.imgur.com/TTAGFHG.png" group-title="GEC HINDI",MBC BOLLYWOOD (1080P) UAE
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
+
+#EXTINF:-1 tvg-id="MBC2.ae" tvg-name="MBC 2.eg" tvg-logo="https://i.imgur.com/n9mSHuP.png" group-title="GEC HINDI",MBC 2 (1080P) (AE)
+http://154.58.202.18:8080/mbc2/tracks-v1a1/mono.m3u8
+
+
