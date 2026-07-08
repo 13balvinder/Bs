@@ -1,0 +1,88 @@
+#EXTM3U x-tvg-url="https://www.open-epg.com/generate/4Ctme5pWBw.xml.gz"
+
+#12=======IN | INFO (PAY) {Infotainment}
+#  =======PAY INFOTAINMENT ============
+
+#3451
+#EXTINF:-1 tvg-id="AnimalPlanetHD.in" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/animal-planet-us.png" group-title="12) IN | INFO (PAY)", ANIMAL PLANET HD 
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=944624&extension=ts&play_token=X7E0KaEwdp
+
+#EXTINF:-1 tvg-id="AnimalPlanetHD.in" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/animal-planet-us.png" group-title="12) IN | INFO (PAY)", ANIMAL PLANET HD IN EN HI TL TM (TATA PLAY)
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/98873.ts
+
+#3444
+#EXTINF:-1 tvg-id="DiscoveryHDWorld.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="12) IN | INFO (PAY)",DISCOVERY HD HINDI AIRTEL
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=373036&extension=ts&play_token=c04aFmruqh
+
+#EXTINF:-1 tvg-id="DiscoveryHDWorld.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="12) IN | INFO (PAY)",Discovery HD IN EN HI TL TM MAL KAN BEN (TATA PLAY)
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/98872.ts
+
+#EXTINF:-1 tvg-id="DiscoveryHDWorld.in" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540" group-title="12) IN | INFO (PAY)",DISCOVERY SCIENCE HINDI IN
+http://xcv70.fyi:8080/live/adil2912/adil1229/206289.ts
+
+#EXTINF:-1 tvg-id="InvestigationDiscoveryHD.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png" group-title="12) IN | INFO (PAY)",DISCOVERY ID HD HINDI AIRTEL
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=1433213&extension=ts&play_token=HYBuPHOOkI
+
+#EXTINF:-1 tvg-id="InvestigationDiscoveryHD.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INVESTIGATION_DISCOVERY/images/LOGO_HD/image.png" group-title="12) IN | INFO (PAY)",ID HINDI SD INDIA 
+http://xcv70.fyi:8080/live/adil2912/adil1229/206291.ts
+#146
+#EXTINF:-1 tvg-id="HistoryTV18HD.in" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/history-tv18-hd-in.png" group-title="12) IN | INFO (PAY)",History TV18 HD English (1080p) INDIA [Geo-blocked]
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/playlist/amg01448-samsungindia-historychannelenglish-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HistoryTV18HD.in" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/history-tv18-hd-in.png" group-title="12) IN | INFO (PAY)",History TV18 HD Hindi (1080p) INDIA [Geo-blocked]
+https://amg01448-amg01448c16-samsung-in-3495.playouts.now.amagi.tv/ts-ap-s1-n1/playlist/amg01448-samsungindia-historychannelhindi-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HistoryTV18HD.in" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/history-tv18-hd-in.png" group-title="12) IN | INFO (PAY)", TV18 HISTORY HD Hindi [AIRTEL]
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=373031&extension=ts&play_token=7J2w8nbtbd
+
+#EXTINF:-1 tvg-id="HistoryTV18HD.in" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/india/history-tv18-hd-in.png" group-title="12) IN | INFO (PAY)", History TV 18 HD IN EN HI TL TM (TATA PLAY)
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/98877.ts
+
+
+#1335
+#EXTINF:-1 tvg-id="NationalGeographicHD.in" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/national-geographic-us.png" group-title="12) IN | INFO (PAY)", NATIONAL GEOGRAPHIC HD [TATA PLAY]
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=373017&extension=ts&play_token=IsE9R5HA3X
+
+#EXTINF:-1 tvg-id="NationalGeographicHD.in" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/national-geographic-us.png" group-title="12) IN | INFO (PAY)", NGC HD IN EN HI TL TM MAL KAN BEN (TATA PLAY)
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/98874.ts
+
+#1332
+#EXTINF:-1 tvg-id="NatGeoWildHD.in" tvg-logo="https://dtil.tmsimg.com/assets/s143571_ld_h15_aa.png?lock=720x540" group-title="12) IN | INFO (PAY)",NAT GEO WILD HD HINDI AIRTEL
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=373018&extension=ts&play_token=QxeB9ORFSV
+
+#EXTINF:-1 tvg-id="NatGeoWildHD.in" tvg-logo="https://dtil.tmsimg.com/assets/s143571_ld_h15_aa.png?lock=720x540" group-title="12) IN | INFO (PAY)",NG WILD HD IN EN HI TL TM (TATA PLAY)
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/98875.ts
+
+#821
+#EXTINF:-1 tvg-id="SONYBBCEarthHD.in" tvg-logo="https://dtil.tmsimg.com/assets/s143799_ld_h15_aa.png?lock=720x540" group-title="12) IN | INFO (PAY)",SONY BBC EARTH HD HINDI AIRTEL
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=373071&extension=ts&play_token=QcXQt3kfyj
+
+#EXTINF:-1 tvg-id="SONYBBCEarthHD.in" tvg-logo="https://dtil.tmsimg.com/assets/s143799_ld_h15_aa.png?lock=720x540" group-title="12) IN | INFO (PAY)",SONY BBC EARTH HD IN EN HI TL TM (TATA PLAY)
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/98871.ts
+
+#EXTINF:-1 group-title="12) IN | INFO (PAY)",TLC HD INDIA ENG HIN
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/98878.ts
+
+#562
+#EXTINF:-1 tvg-id="TravelxpHD.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="12) IN | INFO (PAY)",TRAVEL XP HD 1 HIN ENG (V1) CLEAN AS JIOTV FEED
+http://xcv70.fyi:8080/live/adil2912/adil1229/206280.ts
+
+#EXTINF:-1 tvg-id="TravelxpHD.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="12) IN | INFO (PAY)",TRAVEL XP HD 2 HINDI (V1) ENG SUB (TATA PLAY) AS JIOTV FEED
+http://xcv70.fyi:8080/live/adil2912/adil1229/206279.ts
+
+#EXTINF:-1 tvg-id="TravelxpHD.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="12) IN | INFO (PAY)",TravelXP TV 18 HD IN Hindi (TATA PLAY)
+http://premiumtvs.space/live/YqXTywueEV/damp2purchase/181.ts
+
+#164
+#EXTINF:-1 tvg-id="TravelxpHD.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="12) IN | INFO (PAY)", TRAVEL XP HD 3 Hindi Ver.2 (1080p 720p 480p 360p) INDIA
+https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HUWEnc5.png" tvg-country="IN" tvg-language="eng" tvg-id="Travelxp.in" group-title="12) IN | INFO (PAY)", TRAVELXP 4k ENG HIN TAM TEL (HD 2K 4K)
+https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
+
+#EXTINF:-1 tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_EPIC/images/LOGO_HD/image.png" tvg-country="IN" tvg-language="eng" tvg-id="EPIC.in" group-title="12) IN | INFO (PAY)", EPIC TV HINDI
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=373033&extension=ts&play_token=NUrKRwSNwp
+
+#EXTINF:-1 tvg-id="NatGeoAbuDhabi.ae" tvg-logo="https://i.imgur.com/fNA00VF.png" group-title="12) IN | INFO (PAY)",NAT GEO ABU DHABI AE
+http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:17:01:63&stream=660663&extension=ts&play_token=5MIEB0LWv5
+#12End=======IN | INFO (PAY) {Infotainment}
