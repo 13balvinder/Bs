@@ -1,0 +1,835 @@
+#EXTM3U
+#EXTINF:0 tvg-rec="0",Channel One UHD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/19241/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia 1 UHD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/19242/index.m3u8
+#EXTINF:0 tvg-rec="0",NTV UHD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/19405/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT UHD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/19238/index.m3u8
+#EXTINF:0 tvg-rec="0",OTR HD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/20018/index.m3u8
+#EXTINF:0 tvg-rec="7",Channel One FHD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/2402/index.m3u8
+#EXTINF:0 tvg-rec="7",Channel One HD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/204/index.m3u8
+#EXTINF:0 tvg-rec="7",Channel One
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/127/index.m3u8
+#EXTINF:0 tvg-rec="3",Channel One +2
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/714/index.m3u8
+#EXTINF:0 tvg-rec="0",Channel One +4
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6021/index.m3u8
+#EXTINF:0 tvg-rec="0",Channel One +4 HD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15117/index.m3u8
+#EXTINF:0 tvg-rec="0",Channel One +6
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6037/index.m3u8
+#EXTINF:0 tvg-rec="0",Channel One +8
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6050/index.m3u8
+#EXTINF:0 tvg-rec="3",Russia 1 FHD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/2409/index.m3u8
+#EXTINF:0 tvg-rec="7",Russia 1 HD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/205/index.m3u8
+#EXTINF:0 tvg-rec="7",Russia 1
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/504/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia 1 +2
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6011/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia 1 +4
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6022/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia 1 +6
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6038/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia 1 +8
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6051/index.m3u8
+#EXTINF:0 tvg-rec="7",NTV HD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/213/index.m3u8
+#EXTINF:0 tvg-rec="0",NTV Hit HD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/16062/index.m3u8
+#EXTINF:0 tvg-rec="0",NTV Mir
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/14035/index.m3u8
+#EXTINF:0 tvg-rec="7",NTV
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/501/index.m3u8
+#EXTINF:0 tvg-rec="3",NTV +2
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/713/index.m3u8
+#EXTINF:0 tvg-rec="0",NTV +4
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6024/index.m3u8
+#EXTINF:0 tvg-rec="0",NTV +7
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6039/index.m3u8
+#EXTINF:0 tvg-rec="0",NTV +8
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6053/index.m3u8
+#EXTINF:0 tvg-rec="7",TV Centre
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/520/index.m3u8
+#EXTINF:0 tvg-rec="3",TV Centre +2
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/716/index.m3u8
+#EXTINF:0 tvg-rec="0",TV Centre +4
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6027/index.m3u8
+#EXTINF:0 tvg-rec="0",TV Centre +7
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6041/index.m3u8
+#EXTINF:0 tvg-rec="0",TV Centre +8
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6056/index.m3u8
+#EXTINF:0 tvg-rec="7",Fifth Channel
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/112/index.m3u8
+#EXTINF:0 tvg-rec="3",Fifth Channel +2
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/746/index.m3u8
+#EXTINF:0 tvg-rec="0",Fifth Channel +4
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6025/index.m3u8
+#EXTINF:0 tvg-rec="0",Fifth Channel +7
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6040/index.m3u8
+#EXTINF:0 tvg-rec="0",Fifth Channel +8
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6054/index.m3u8
+#EXTINF:0 tvg-rec="0",Mir HD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15119/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT FHD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/2417/index.m3u8
+#EXTINF:0 tvg-rec="7",TNT HD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/237/index.m3u8
+#EXTINF:0 tvg-rec="7",TNT
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/502/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT +4
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6035/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT +7
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6049/index.m3u8
+#EXTINF:0 tvg-rec="7",STS
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/506/index.m3u8
+#EXTINF:0 tvg-rec="0",STS +2
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6015/index.m3u8
+#EXTINF:0 tvg-rec="0",STS +4
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6029/index.m3u8
+#EXTINF:0 tvg-rec="0",STS +7
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6043/index.m3u8
+#EXTINF:0 tvg-rec="7",REN TV HD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/2024/index.m3u8
+#EXTINF:0 tvg-rec="7",REN TV
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/128/index.m3u8
+#EXTINF:0 tvg-rec="3",REN TV +2
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/747/index.m3u8
+#EXTINF:0 tvg-rec="0",REN TV +4
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6028/index.m3u8
+#EXTINF:0 tvg-rec="0",REN TV +7
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6042/index.m3u8
+#EXTINF:0 tvg-rec="7",Mir
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/113/index.m3u8
+#EXTINF:0 tvg-rec="0",Mir +2
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6019/index.m3u8
+#EXTINF:0 tvg-rec="0",Mir +4
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6034/index.m3u8
+#EXTINF:0 tvg-rec="0",Mir +7
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6048/index.m3u8
+#EXTINF:0 tvg-rec="7",OTR
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/705/index.m3u8
+#EXTINF:0 tvg-rec="0",OTR +2
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6014/index.m3u8
+#EXTINF:0 tvg-rec="0",OTR +4
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6026/index.m3u8
+#EXTINF:0 tvg-rec="0",Zvezda Plus HD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/19230/index.m3u8
+#EXTINF:0 tvg-rec="7",Zvezda
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/544/index.m3u8
+#EXTINF:0 tvg-rec="3",Zvezda +2
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/739/index.m3u8
+#EXTINF:0 tvg-rec="0",Zvezda +4
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6033/index.m3u8
+#EXTINF:0 tvg-rec="0",Zvezda +7
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6047/index.m3u8
+#EXTINF:0 tvg-rec="7",STS Love
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/103/index.m3u8
+#EXTINF:0 tvg-rec="7",Che!
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/513/index.m3u8
+#EXTINF:0 tvg-rec="3",TV-3 HD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/5033/index.m3u8
+#EXTINF:0 tvg-rec="7",TV-3
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/508/index.m3u8
+#EXTINF:0 tvg-rec="0",TV-3 +2
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6017/index.m3u8
+#EXTINF:0 tvg-rec="0",TV-3 +4
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6031/index.m3u8
+#EXTINF:0 tvg-rec="0",TV-3 +7
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6045/index.m3u8
+#EXTINF:0 tvg-rec="3",Friday! HD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/5031/index.m3u8
+#EXTINF:0 tvg-rec="7",Friday!
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/503/index.m3u8
+#EXTINF:0 tvg-rec="0",Friday! +2
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6018/index.m3u8
+#EXTINF:0 tvg-rec="0",Friday! +4
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6032/index.m3u8
+#EXTINF:0 tvg-rec="0",Friday! +7
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6046/index.m3u8
+#EXTINF:0 tvg-rec="3",RTVi
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/2086/index.m3u8
+#EXTINF:0 tvg-rec="7",Saturday!
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/826/index.m3u8
+#EXTINF:0 tvg-rec="7",Domashny
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/514/index.m3u8
+#EXTINF:0 tvg-rec="0",Domashny +2
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6016/index.m3u8
+#EXTINF:0 tvg-rec="0",Domashny +4
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6030/index.m3u8
+#EXTINF:0 tvg-rec="0",Domashny +7
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/6044/index.m3u8
+#EXTINF:0 tvg-rec="3",Current Time
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/986/index.m3u8
+#EXTINF:0 tvg-rec="7",Nostalgia
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/102/index.m3u8
+#EXTINF:0 tvg-rec="7",U TV
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/534/index.m3u8
+#EXTINF:0 tvg-rec="7",TNT4
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/104/index.m3u8
+#EXTINF:0 tvg-rec="7",KVN TV
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/546/index.m3u8
+#EXTINF:0 tvg-rec="7",Sarafan
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/748/index.m3u8
+#EXTINF:0 tvg-rec="0",Moscow Education HD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/16043/index.m3u8
+#EXTINF:0 tvg-rec="3",Tochka TV
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/2053/index.m3u8
+#EXTINF:0 tvg-rec="3",360 HD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/2065/index.m3u8
+#EXTINF:0 tvg-rec="7",360
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/825/index.m3u8
+#EXTINF:0 tvg-rec="3",SPAS
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/983/index.m3u8
+#EXTINF:0 tvg-rec="7",Soyuz
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/2016/index.m3u8
+#EXTINF:0 tvg-rec="7",Zdorovoe TV
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/2022/index.m3u8
+#EXTINF:0 tvg-rec="7",Psychology
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/2025/index.m3u8
+#EXTINF:0 tvg-rec="7",Uspeh
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/2041/index.m3u8
+#EXTINF:0 tvg-rec="7",Who is Who
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/2042/index.m3u8
+#EXTINF:0 tvg-rec="3",Open World
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/2078/index.m3u8
+#EXTINF:0 tvg-rec="3",Zagorodny
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/2099/index.m3u8
+#EXTINF:0 tvg-rec="3",Nadezhda
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/2116/index.m3u8
+#EXTINF:0 tvg-rec="3",BST
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/2108/index.m3u8
+#EXTINF:0 tvg-rec="3",Red Line
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/2147/index.m3u8
+#EXTINF:0 tvg-rec="3",LDPR TV
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/2110/index.m3u8
+#EXTINF:0 tvg-rec="3",Huzur TV
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/2150/index.m3u8
+#EXTINF:0 tvg-rec="7",Dozhd
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/2030/index.m3u8
+#EXTINF:0 tvg-rec="3",GNC HD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/955/index.m3u8
+#EXTINF:0 tvg-rec="3",Vmeste-RF
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/2073/index.m3u8
+#EXTINF:0 tvg-rec="7",Russia K
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/505/index.m3u8
+#EXTINF:0 tvg-rec="3",REN TV HD orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9002/index.m3u8
+#EXTINF:0 tvg-rec="3",Gametoon HD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/5049/index.m3u8
+#EXTINF:0 tvg-rec="3",NTV HD orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9028/index.m3u8
+#EXTINF:0 tvg-rec="3",Ratnik HD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/2119/index.m3u8
+#EXTINF:0 tvg-rec="3",360 HD orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9036/index.m3u8
+#EXTINF:0 tvg-rec="3",TV Centre orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9095/index.m3u8
+#EXTINF:0 tvg-rec="3",Fifth Channel orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9096/index.m3u8
+#EXTINF:0 tvg-rec="3",Zvezda orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9098/index.m3u8
+#EXTINF:0 tvg-rec="0",Zvezda HD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15115/index.m3u8
+#EXTINF:0 tvg-rec="3",STS Love orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9099/index.m3u8
+#EXTINF:0 tvg-rec="3",OTR orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9100/index.m3u8
+#EXTINF:0 tvg-rec="3",Che! orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9101/index.m3u8
+#EXTINF:0 tvg-rec="3",RTVi HD orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9102/index.m3u8
+#EXTINF:0 tvg-rec="3",Saturday! orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9103/index.m3u8
+#EXTINF:0 tvg-rec="0",Saturday! HD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15118/index.m3u8
+#EXTINF:0 tvg-rec="3",Domashny orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9104/index.m3u8
+#EXTINF:0 tvg-rec="0",Domashny HD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15116/index.m3u8
+#EXTINF:0 tvg-rec="3",Nostalgia orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9106/index.m3u8
+#EXTINF:0 tvg-rec="3",U TV orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9107/index.m3u8
+#EXTINF:0 tvg-rec="3",KVN TV orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9108/index.m3u8
+#EXTINF:0 tvg-rec="3",Sarafan orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9109/index.m3u8
+#EXTINF:0 tvg-rec="3",Tochka TV orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9110/index.m3u8
+#EXTINF:0 tvg-rec="3",SPAS orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9111/index.m3u8
+#EXTINF:0 tvg-rec="3",Soyuz orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9112/index.m3u8
+#EXTINF:0 tvg-rec="3",Zdorovoe TV orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9113/index.m3u8
+#EXTINF:0 tvg-rec="3",Psychology orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9114/index.m3u8
+#EXTINF:0 tvg-rec="3",Uspeh orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9115/index.m3u8
+#EXTINF:0 tvg-rec="3",Who is Who orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9116/index.m3u8
+#EXTINF:0 tvg-rec="3",Open World orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9117/index.m3u8
+#EXTINF:0 tvg-rec="3",Red Line orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9119/index.m3u8
+#EXTINF:0 tvg-rec="3",LDPR TV orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9120/index.m3u8
+#EXTINF:0 tvg-rec="3",Huzur TV HD orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9121/index.m3u8
+#EXTINF:0 tvg-rec="3",Vmeste-RF orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9124/index.m3u8
+#EXTINF:0 tvg-rec="3",Channel One orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9201/index.m3u8
+#EXTINF:0 tvg-rec="3",Russia 1 orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9202/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia 1 HD 50
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15133/index.m3u8
+#EXTINF:0 tvg-rec="3",NTV orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9203/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9204/index.m3u8
+#EXTINF:0 tvg-rec="3",REN TV orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9205/index.m3u8
+#EXTINF:0 tvg-rec="3",TV-3 orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9206/index.m3u8
+#EXTINF:0 tvg-rec="3",Friday! orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9207/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT4 orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9208/index.m3u8
+#EXTINF:0 tvg-rec="3",360 orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9209/index.m3u8
+#EXTINF:0 tvg-rec="3",Mir orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9211/index.m3u8
+#EXTINF:0 tvg-rec="3",Zagorodny orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/9212/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT HD orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/7251/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia 1 HD orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/7252/index.m3u8
+#EXTINF:0 tvg-rec="0",Channel One HD orig
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/7253/index.m3u8
+#EXTINF:0 tvg-rec="7",Zvezda Plus
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/10059/index.m3u8
+#EXTINF:0 tvg-rec="0",MS Crime HD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15136/index.m3u8
+#EXTINF:0 tvg-rec="0",TV Centre International
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15229/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT International HD
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15230/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia 1 +1 (Privolzhye)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15284/index.m3u8
+#EXTINF:0 tvg-rec="0",Channel One +4 (Altai)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15287/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia 1 +4 (Altai)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15288/index.m3u8
+#EXTINF:0 tvg-rec="0",NTV +4 (Altai)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15290/index.m3u8
+#EXTINF:0 tvg-rec="0",Fifth Channel +4 (Altai)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15291/index.m3u8
+#EXTINF:0 tvg-rec="0",STS +4 (Altai)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15293/index.m3u8
+#EXTINF:0 tvg-rec="0",Domashny +4 (Altai)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15294/index.m3u8
+#EXTINF:0 tvg-rec="0",TV-3 +4 (Altai)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15295/index.m3u8
+#EXTINF:0 tvg-rec="0",Friday! +4 (Altai)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15296/index.m3u8
+#EXTINF:0 tvg-rec="0",Zvezda +4 (Altai)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15297/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT +4 (Altai)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15298/index.m3u8
+#EXTINF:0 tvg-rec="0",Channel One +2 (Ufa)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15301/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia 1 +2 (Ufa)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15302/index.m3u8
+#EXTINF:0 tvg-rec="0",STS +2 (Ufa)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15303/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT +2 (Ufa)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15304/index.m3u8
+#EXTINF:0 tvg-rec="0",NTV +2 (Ufa)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15305/index.m3u8
+#EXTINF:0 tvg-rec="0",Zvezda +2 (Ufa)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15306/index.m3u8
+#EXTINF:0 tvg-rec="0",Friday! +2 (Ufa)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15308/index.m3u8
+#EXTINF:0 tvg-rec="0",REN TV +2 (Ufa)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15309/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia 1 +0 (Lipetsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15313/index.m3u8
+#EXTINF:0 tvg-rec="0",NTV +0 (Lipetsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15315/index.m3u8
+#EXTINF:0 tvg-rec="0",Fifth Channel +2 (Ufa)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15316/index.m3u8
+#EXTINF:0 tvg-rec="0",Domashny +2 (Ufa)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15317/index.m3u8
+#EXTINF:0 tvg-rec="0",Fifth Channel +0 (Lipetsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15318/index.m3u8
+#EXTINF:0 tvg-rec="0",TV-3 +2 (Ufa)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15319/index.m3u8
+#EXTINF:0 tvg-rec="0",TV Centre +2 (Ufa)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15320/index.m3u8
+#EXTINF:0 tvg-rec="0",Domashny +0 (Nevinnomyssk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15321/index.m3u8
+#EXTINF:0 tvg-rec="0",NTV +0 (Nevinnomyssk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15322/index.m3u8
+#EXTINF:0 tvg-rec="0",Channel One +0 (Nevinnomyssk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15323/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia 1 +0 (Nevinnomyssk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15324/index.m3u8
+#EXTINF:0 tvg-rec="0",Friday! +0 (Nevinnomyssk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15325/index.m3u8
+#EXTINF:0 tvg-rec="0",Fifth Channel +0 (Nevinnomyssk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15326/index.m3u8
+#EXTINF:0 tvg-rec="0",REN TV +0 (Nevinnomyssk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15327/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia K +0 (Nevinnomyssk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15328/index.m3u8
+#EXTINF:0 tvg-rec="0",STS +0 (Nevinnomyssk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15330/index.m3u8
+#EXTINF:0 tvg-rec="0",TV-3 +0 (Nevinnomyssk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15331/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT +0 (Nevinnomyssk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15332/index.m3u8
+#EXTINF:0 tvg-rec="0",Channel One +7 (Vladivostok)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15333/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia 1 +7 (Vladivostok)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15334/index.m3u8
+#EXTINF:0 tvg-rec="0",NTV +7 (Vladivostok)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15336/index.m3u8
+#EXTINF:0 tvg-rec="0",Fifth Channel +7 (Vladivostok)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15337/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia K +7 (Vladivostok)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15338/index.m3u8
+#EXTINF:0 tvg-rec="0",OTR +7 (Vladivostok)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15341/index.m3u8
+#EXTINF:0 tvg-rec="0",TV Centre +7 (Vladivostok)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15342/index.m3u8
+#EXTINF:0 tvg-rec="0",REN TV +7 (Vladivostok)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15343/index.m3u8
+#EXTINF:0 tvg-rec="0",SPAS +7 (Vladivostok)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15344/index.m3u8
+#EXTINF:0 tvg-rec="0",Domashny +7 (Vladivostok)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15345/index.m3u8
+#EXTINF:0 tvg-rec="0",TV-3 +7 (Vladivostok)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15346/index.m3u8
+#EXTINF:0 tvg-rec="0",Friday! +7 (Vladivostok)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15347/index.m3u8
+#EXTINF:0 tvg-rec="0",Zvezda +7 (Vladivostok)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15348/index.m3u8
+#EXTINF:0 tvg-rec="0",Mir +7 (Vladivostok)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15349/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT +7 (Vladivostok)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15350/index.m3u8
+#EXTINF:0 tvg-rec="0",STS +7 (Vladivostok)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15351/index.m3u8
+#EXTINF:0 tvg-rec="0",STS +5 (Irkutsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15355/index.m3u8
+#EXTINF:0 tvg-rec="0",BST 24 (Bratsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15359/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia 1 +4 (Abakan)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15367/index.m3u8
+#EXTINF:0 tvg-rec="0",BTK HD (Beloretsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15371/index.m3u8
+#EXTINF:0 tvg-rec="0",TV Centre +0 (Lipetsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15372/index.m3u8
+#EXTINF:0 tvg-rec="0",Friday! +0 (Lipetsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15373/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT +0 (Lipetsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15374/index.m3u8
+#EXTINF:0 tvg-rec="0",Channel One +0 (Lipetsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15375/index.m3u8
+#EXTINF:0 tvg-rec="0",STS +4 (Kuzbass)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15376/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia 1 +3 (Omsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15377/index.m3u8
+#EXTINF:0 tvg-rec="0",Domashny +3 (Omsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15379/index.m3u8
+#EXTINF:0 tvg-rec="0",TV-3 +3 (Omsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15380/index.m3u8
+#EXTINF:0 tvg-rec="0",Zvezda +3 (Omsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15381/index.m3u8
+#EXTINF:0 tvg-rec="0",Mir +3 (Omsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15382/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT +3 (Omsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15383/index.m3u8
+#EXTINF:0 tvg-rec="0",NTV +2 (Neftekamsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15384/index.m3u8
+#EXTINF:0 tvg-rec="0",Channel One +4 (Tomsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15385/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia 1 +4 (Tomsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15386/index.m3u8
+#EXTINF:0 tvg-rec="0",NTV +4 (Tomsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15388/index.m3u8
+#EXTINF:0 tvg-rec="0",Fifth Channel +4 (Tomsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15389/index.m3u8
+#EXTINF:0 tvg-rec="0",TV Centre +4 (Tomsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15391/index.m3u8
+#EXTINF:0 tvg-rec="0",REN TV +4 (Tomsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15392/index.m3u8
+#EXTINF:0 tvg-rec="0",STS +4 (Tomsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15393/index.m3u8
+#EXTINF:0 tvg-rec="0",Domashny +4 (Tomsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15394/index.m3u8
+#EXTINF:0 tvg-rec="0",TV-3 +4 (Tomsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15395/index.m3u8
+#EXTINF:0 tvg-rec="0",Friday! +4 (Tomsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15396/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT +4 (Tomsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15398/index.m3u8
+#EXTINF:0 tvg-rec="0",Zvezda +4 (Tomsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15397/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia 1 +0 (Alania)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15403/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia 1 +5 (Irkutsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15413/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia 1 +4 (Krasnoyarsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15415/index.m3u8
+#EXTINF:0 tvg-rec="0",Prima (Krasnoyarsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15417/index.m3u8
+#EXTINF:0 tvg-rec="0",TVK (Krasnoyarsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15420/index.m3u8
+#EXTINF:0 tvg-rec="0",TV-3 +0 (Belgorod)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15426/index.m3u8
+#EXTINF:0 tvg-rec="0",Friday! +0 (Belgorod)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15427/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT +0 (Belgorod)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15428/index.m3u8
+#EXTINF:0 tvg-rec="0",Channel One +3 (Omsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15431/index.m3u8
+#EXTINF:0 tvg-rec="0",NTV +3 (Omsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15433/index.m3u8
+#EXTINF:0 tvg-rec="0",Fifth Channel +3 (Omsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15434/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia K +3 (Omsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15435/index.m3u8
+#EXTINF:0 tvg-rec="0",TV Centre +3 (Omsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15437/index.m3u8
+#EXTINF:0 tvg-rec="0",REN TV +3 (Omsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15438/index.m3u8
+#EXTINF:0 tvg-rec="0",STS +3 (Omsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15439/index.m3u8
+#EXTINF:0 tvg-rec="0",Friday! +3 (Omsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15440/index.m3u8
+#EXTINF:0 tvg-rec="0",Channel One +0 (Elista)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15443/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia K +2 (Perm)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15445/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia 1 +0 (Elista)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15447/index.m3u8
+#EXTINF:0 tvg-rec="0",NTV +0 (Elista)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15449/index.m3u8
+#EXTINF:0 tvg-rec="0",Fifth Channel +0 (Elista)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15450/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia K +0 (Elista)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15451/index.m3u8
+#EXTINF:0 tvg-rec="0",TV Centre +0 (Elista)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15454/index.m3u8
+#EXTINF:0 tvg-rec="0",REN TV +0 (Elista)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15455/index.m3u8
+#EXTINF:0 tvg-rec="0",STS +0 (Elista)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15456/index.m3u8
+#EXTINF:0 tvg-rec="0",TV-3 +0 (Elista)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15457/index.m3u8
+#EXTINF:0 tvg-rec="0",Zvezda +0 (Elista)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15458/index.m3u8
+#EXTINF:0 tvg-rec="0",Mir +0 (Elista)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15459/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT +0 (Elista)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15460/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT +2 (Beloretsk)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15462/index.m3u8
+#EXTINF:0 tvg-rec="0",Channel One +0 (Tambov)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15464/index.m3u8
+#EXTINF:0 tvg-rec="0",Russia 1 +0 (Tambov)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15465/index.m3u8
+#EXTINF:0 tvg-rec="0",NTV +0 (Tambov)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15466/index.m3u8
+#EXTINF:0 tvg-rec="0",Fifth Channel +0 (Tambov)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15467/index.m3u8
+#EXTINF:0 tvg-rec="0",REN TV +0 (Tambov)
+#EXTGRP:Общие
+http://f8c3fe93.ottrast.com/iptv/MM4E93NGF5LADZ/15468/index.m3u8
