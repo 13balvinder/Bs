@@ -672,9 +672,6 @@ http://xcv70.fyi:8080/live/adil2912/adil1229/244362.ts
 #EXTINF:-1 tvg-id="PTCPunjabi.in@HD" tvg-logo="https://i.imgur.com/nbUMvaR.png" group-title="11) IN | PUNJABI (PAY IN UK & INT)",PTC PUNJABI 3 INDIA HD (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/3e22a9c278db4e3eb779afd42e41b0a6/index.m3u8
 
-#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-logo="https://media.thegtcnetwork.com/uploads/gtc-pujabin-s.jpg" group-title="11) IN | PUNJABI (PAY IN UK & INT)",GTC Punjabi (1080p)
-https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8
-
 #EXTINF:-1 tvg-id="PTCPunjabi.uk" tvg-logo="https://i.imgur.com/nbUMvaR.png" group-title="11) IN | PUNJABI (PAY IN UK & INT)",PTC PUNJABI 4 UK
 http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:0E:19:82&stream=372673&extension=ts&play_token=k1vtt0f850
 
@@ -695,6 +692,12 @@ http://line.tivi-one.net:80/play/live.php?mac=00:1A:79:0E:19:82&stream=908613&ex
 
 #EXTINF:-1 tvg-id="PTCSimran.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_SIMRAN/images/LOGO_HD/image.png" group-title="11) IN | PUNJABI (PAY IN UK & INT)",PTC SIMRAN 
 http://xcv70.fyi:8080/live/adil2912/adil1229/244379.ts
+
+#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-logo="https://media.thegtcnetwork.com/uploads/gtc-pujabin-s.jpg" group-title="11) IN | PUNJABI (PAY IN UK & INT)",GTC Punjabi (1080p) Link - 1
+https://gtc-yupp.vgcdn.net/vglive-sk-254807/index.m3u8
+
+#EXTINF:-1 tvg-id="GTCPunjabi.in" tvg-logo="https://media.thegtcnetwork.com/uploads/gtc-pujabin-s.jpg" group-title="11) IN | PUNJABI (PAY IN UK & INT)",GTC Punjabi (1080p) Link - 2
+https://cdn.ottlive.co.in/gtcpunjabi/index.m3u8
 
 #EXTINF:-1 tvg-id="SteelbirdMusic.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Steelbird_Music.png" group-title="11) IN | PUNJABI (PAY IN UK & INT)",Steelbird Music (720p) [Not 24/7]
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
